@@ -1,0 +1,30 @@
+JavaScript - Day -4: Functions
+
+Contents:
+Introduction to functions
+function & return keyword
+types of function
+
+Mock Interview:
+
+Q1: What is the purpose of the function keyword in JavaScript? How do you declare a function using the function keyword?
+
+Q2: How does the return keyword work in JavaScript functions? What happens when a function encounters a return statement?
+
+Q3:What are arrow functions in JavaScript? How do they differ from traditional function declarations or expressions?
+
+Q4:How can you pass parameters to a JavaScript function? Explain the concept of default parameters and how they are used.
+
+Q5:What are anonymous functions? How are they used in JavaScript
+
+Q6:What are immediately invoked function expressions (IIFE) in JavaScript? How are they used, and what problem do they solve?
+
+Q7: Compare and contrast named function expressions and anonymous function expressions in JavaScript. When would you use each type of function expression?
+
+Q8:Explain the concept of function scope and variable scope in JavaScript. How does scope affect the visibility and accessibility of variables within functions?
+
+Q9: Explain the purpose of parameters in a JavaScript function. How do you pass values to a function when calling it?
+
+Q10:What is a function in JavaScript? How do you define and call a function?
+
+Q11: How do you handle default parameter values in JavaScript functions? Provide an example.

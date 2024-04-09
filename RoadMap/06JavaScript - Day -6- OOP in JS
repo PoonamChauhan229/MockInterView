@@ -1,0 +1,29 @@
+JavaScript - Day -6: OOP in JS
+Contents:
+Understanding the basics of prototype
+What is classes in js?
+constructor
+need of setters/getters
+use of this key word in classes
+
+Q1: How do you define and use constructors in JavaScript classes?
+
+Q2: What is the purpose of the new keyword when creating objects from a constructor function or class?
+
+Q3: Explain the difference between a class and an object in JavaScript.
+
+Q4: How do you define a method inside a JavaScript class?
+
+Q5: How do you define a class in JavaScript using ES6 syntax? Provide an example.
+
+Q6: Explain the concept of properties and methods in JavaScript objects. How do you access and modify object properties?
+
+Q7: Discuss the purpose and usage of common access modifiers 
+
+Q8: What are the common access modifiers
+
+Q9: What is the purpose of access modifiers (public, private, protected) in object-oriented programming?
+
+Q10: Explain the difference between public, private, and protected access modifiers.
+
+Q11: How does the public access modifier impact the visibility of class members in object-oriented languages?

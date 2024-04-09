@@ -1,0 +1,34 @@
+JavaScript - Day -7: Array methods
+Contents:
+Map, Reduce,  Filter
+Other array methods practiced in the session
+
+Mock Interview:
+
+Q1. What is the purpose of the map method in JavaScript arrays? Provide an example of how map can be used to transform an array of numbers.
+
+Q2. Explain how the filter method works in JavaScript arrays. Give an example of using filter to extract even numbers from an array.
+
+Q3. How does the reduce method operate on JavaScript arrays? Describe its parameters and provide an example of summing up values in an array using reduce.
+
+Q4. Discuss the differences between map, filter, and reduce in terms of their return values and typical use cases.
+
+Q5. What does the forEach method do in JavaScript arrays? How is it different from map and reduce?
+
+Q6. Explain the purpose of the find method in JavaScript arrays. How does it differ from filter?
+
+Q7. How can you use the some and every methods to check conditions on array elements? Provide examples for both methods.
+
+Q8. Discuss the usage of sort and reverse methods in JavaScript arrays. Provide examples of sorting an array of strings and reversing an array.
+
+Q9. What does the slice method do in JavaScript arrays? How can you use it to extract a portion of an array?
+
+Q10. Explain the difference between splice and slice methods in JavaScript arrays.
+
+Q11. How can you concatenate arrays using the concat method in JavaScript? Provide an example.
+
+Q12. What is the purpose of includes method in JavaScript arrays? How does it differ from indexOf?
+
+Q13. Explain the join method in JavaScript arrays. How can you use it to create a string from array elements?
+
+Q14. Discuss the usage of isArray method to check if a variable is an array in JavaScript.

@@ -1,0 +1,33 @@
+JavaScript - Day -5: ES5 vs ES6
+Contents:
+var vs let vs const
+block scoping
+spread & rest operators
+array & object destructure
+Object property shorthand
+Template literals
+Arrow functions
+
+Mock Interview:
+
+Q1: Compare and contrast var, let, and const in JavaScript. What are the differences in terms of scope and variable reassignment?
+
+Q2: Explain the concept of block scoping introduced in ES6. How does block scoping differ from function scoping in JavaScript?
+
+Q3: What are spread (...) and rest (...args) operators in ES6? How do you use them with arrays and function parameters?
+
+Q4: Discuss array and object destructuring in ES6. How can you use destructuring to extract values from arrays and objects more efficiently?
+
+Q5: What is object property shorthand in ES6? Provide an example of how you can simplify object property assignment using shorthand notation.
+
+Q6: Explain template literals (template strings) in ES6. How do template literals differ from traditional string concatenation?
+
+Q7: Discuss the advantages of arrow functions (=>) introduced in ES6. How do arrow functions handle this differently compared to regular functions?
+
+Q8: How does ES6 address common pitfalls of var declarations with the introduction of let and const?
+
+Q9: What are the benefits of using const for variable declarations in ES6? How does const ensure immutability for object references?
+
+Q10: Explain the use of spread operator (...) to clone arrays and objects in JavaScript
+
+Q11: How can you use array destructuring to swap variables without using a temporary variable in ES6?

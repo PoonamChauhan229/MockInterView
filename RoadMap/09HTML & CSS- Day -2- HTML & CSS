@@ -1,0 +1,36 @@
+HTML & CSS- Day -2: HTML & CSS
+Contents:
+What is CSS?
+ways to use CSS 
+property & value 
+class vs id 
+use of important 
+display property: inline, block
+
+Mock Interview:
+
+Q1. What is CSS (Cascading Style Sheets), and why is it used in web development?
+
+Q2. Describe the different ways to apply CSS styles to HTML elements.
+
+Q3. Explain the concept of CSS properties and values. Provide examples of common CSS properties and their corresponding values.
+
+Q4. Differentiate between using a class and an ID selector in CSS. When would you use each type of selector?
+
+Q5. What is the !important keyword in CSS, and how does it affect style priority? Discuss best practices for using !important.
+
+Q6. Describe the display property in CSS. Explain the differences between display: inline; and display: block;.
+
+Q7. What are inline and block-level elements in HTML? How does the display property impact their rendering?
+
+Q8. Explain the purpose of the float property in CSS. How can you use float to create column layouts?
+
+Q9. Discuss the CSS position property and its values (static, relative, absolute, fixed). When would you use each position value?
+
+Q10. How does the CSS box-sizing property affect the sizing of elements? Explain the difference between content-box and border-box.
+
+Q11. What are CSS pseudo-classes and pseudo-elements? Provide examples of how they can be used to style elements based on states or content.
+
+Q12. Explain the difference between margin and padding in CSS box model?
+
+Q14. How can you use media queries in CSS for responsive web design? Provide examples of media query syntax and common use cases.

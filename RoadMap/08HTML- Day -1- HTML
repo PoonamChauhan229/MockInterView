@@ -1,0 +1,37 @@
+HTML- Day -1: HTML
+Contents:
+What is HTML & Why use it?
+Basic Tags
+HTML vs HTML5
+div vs section vs article
+div vs span
+inline vs block elements
+HTML Forms
+Input elements and attributes
+Form submit
+
+Mock Interview:
+
+Q1. What is HTML, and why is it used in web development?
+
+Q2. Explain the purpose of basic HTML tags like <html>, <head>, <title>, <body>, and <p>.
+
+Q3. What are the key differences between HTML and HTML5? Mention some new features introduced in HTML5.
+
+Q4. Differentiate between <div>, <section>, and <article> tags in HTML. When would you use each of these tags?
+
+Q5. Compare <div> and <span> tags in HTML. How do they differ in terms of their default display behavior?
+
+Q6. Explain the concept of inline and block-level elements in HTML. Provide examples of each type.
+
+Q7. Describe the structure of HTML forms. What is the purpose of the <form> tag in HTML?
+
+Q8. List common input elements used in HTML forms. Explain their usage and attributes.
+
+Q9. How do you create a submit button in an HTML form using the <input> tag?
+
+Q10. Discuss the different types of form input fields, such as text input, password input, radio buttons, checkboxes, and select dropdowns.
+
+Q11. Explain the action and method attributes of the <form> tag in HTML. What are their roles in form submission?
+
+Q12. What is the purpose of the name attribute in HTML form elements? How is it used when submitting a form?

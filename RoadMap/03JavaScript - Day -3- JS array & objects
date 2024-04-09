@@ -1,0 +1,29 @@
+JavaScript - Day -3: JS array & objects
+
+Contents:
+Introduction to Array
+Array and JSON iteration
+XMLHttpRequest
+Hoisting & scope
+
+Mock Interview Questions:
+
+Q1:Explain the concept of hoisting in relation to JavaScript variables. How does it affect primitive data types?
+
+Q2: is an array in JavaScript? How do you declare and initialize an array?
+
+Q3:Explain the difference between arrays and objects in JavaScript. When would you use an array over an object?
+
+Q4:How can you access elements within an array? Describe array indexing and accessing specific elements.
+
+Q5:How do you iterate over elements in an array using loops? Provide Examples
+
+Q6:What is JSON (JavaScript Object Notation)? How is it related to arrays and objects in JavaScript?
+
+Q7:What is XMLHttpRequest (XHR) in JavaScript? How does it facilitate sending HTTP requests?
+
+Q8:What is the difference between var, let, and const in terms of variable scope and hoisting?
+
+Q9:Describe lexical scoping and how JavaScript determines variable scope during runtime.
+
+Q10:Describe the behavior of var, let, and const declarations in relation to block scope and hoisting. How are they different from each other?
