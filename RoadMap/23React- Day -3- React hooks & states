@@ -1,0 +1,33 @@
+React- Day -3: React hooks & states
+Contents:
+Working with array lists
+Usage of keys
+Conditional rendering
+Handling Events
+Props vs State
+Pre-read:
+No preread available
+
+Mock Interview:
+
+Q1. What are React hooks, and how do they differ from class components?
+
+Q2. Explain the purpose of the useState hook in React and how it manages component state.
+
+Q3. How do you render lists of data in React components using map() and JSX?
+
+Q4. Explain the importance of using unique keys when rendering arrays of components in React.
+
+Q5. What is the purpose of keys in React when rendering lists of components?
+
+Q6. Explain why keys are important and how they help React efficiently update the DOM.
+
+Q7. How do you conditionally render components or elements in React based on state or props?
+
+Q8. Differentiate between props and state in React. When would you use each?
+
+Q9. Explain how props are passed from parent components to child components in React.
+
+Q10. Implement a React component that renders a dynamic list of items using state and map().
+
+Q11. Describe a scenario where you would use conditional rendering to display different UI elements.

@@ -1,0 +1,28 @@
+Async programming- Day -3: Promise & async-await
+Contents:
+Promise chaining
+Async/Await with error handling
+Pre-read:
+No preread available
+
+Mock Interview:
+
+Q1. What is Promise chaining in JavaScript, and how does it facilitate handling asynchronous operations?
+
+Q2 .Explain the role of the then() method in Promise chaining?
+
+Q3. How do you handle errors or rejections in a Promise chain using catch()?
+
+Q4. Provide an example of chaining multiple asynchronous tasks using Promises.
+
+Q5. What are async functions (async/await) in JavaScript, and how do they simplify asynchronous programming?
+
+Q6. How do you define an async function, and what is the purpose of the await keyword?
+
+Q7. Explain how error handling works with async/await using try/catch blocks.
+
+Q8. Discuss the benefits of using async/await over Promise chaining for handling asynchronous tasks.
+
+Q9. What happens if an error occurs inside an async function without proper error handling?
+
+Q10. Imagine you need to fetch data from multiple APIs and process the results sequentially. How would you approach this using async/await?

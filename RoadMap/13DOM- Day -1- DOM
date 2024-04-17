@@ -1,0 +1,35 @@
+DOM- Day -1: DOM
+Contents:
+What is DOM?
+createElement, 
+setAttribute
+getElementById, 
+querySelector vs querySelectorAll
+innerHTML vs innerText
+appendChild vs append
+
+Mock Interview Questions:
+
+Q1. What is the DOM (Document Object Model) in web development? Explain its role in representing the structure of HTML documents.
+
+Q2. How does the DOM differ from HTML? Describe the relationship between the DOM and the web page's HTML source code.
+
+Q3. Explain the purpose of document.createElement() in JavaScript. How can you use this method to dynamically create HTML elements?
+
+Q4. What is the significance of setAttribute() in DOM manipulation? Provide an example of setting attributes on an HTML element using this method.
+
+Q5. Describe the difference between getElementById() and querySelector() in DOM selection. When would you use each method?
+
+Q6. Compare querySelector() and querySelectorAll() methods. How do they differ in selecting elements from the DOM?
+
+Q7. What is the difference between innerHTML and innerText properties in JavaScript? How can you use them to manipulate element content?
+
+Q8. Explain the concept of appendChild() in DOM manipulation. How does it enable adding new child nodes to an existing parent node?
+
+Q9. How does append() differ from appendChild() in JavaScript? When would you choose one method over the other for adding elements to the DOM?
+
+Q10. Imagine you have an HTML page with a <div> element that has an id attribute of "container". How would you dynamically create and append a new <p> element inside this <div> using JavaScript?
+
+Q11. Suppose you want to select all <input> elements within a <form> using JavaScript. Would you use querySelector() or querySelectorAll() for this task? Explain your choice.
+
+Q12. Can you demonstrate how to change the text content of a <span> element with the id attribute "message" using the innerText property?

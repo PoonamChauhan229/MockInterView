@@ -1,0 +1,39 @@
+React- Day -1: ES5 vs ES6
+Contents:
+ES5 vs Es6
+Scoping - var vs let vs const
+arrow functions
+use of this keyword(lexical scoping)
+template literals
+spred & rest prarameter
+array & object destructure
+property shorthand
+module import & export
+Class in Javascript
+
+Mock Interview:
+
+ES5 vs ES6:
+Q1. What are the main differences between ES5 and ES6 (ECMAScript 2015)?
+
+Q2. Describe the differences between var, let, and const for variable declaration in JavaScript.
+
+Q3. How does let and const address the scoping issues that var has in ES5?
+
+Q4. What are the benefits of using let and const over var in ES6?
+
+Q5. What are arrow functions in ES6, and how do they differ from traditional function declarations?
+
+Q6. What are template literals (template strings) in ES6, and how do they differ from traditional strings?
+
+Q7. How can you embed expressions and variables inside template literals?
+
+Q8. Describe the usage of spread (...) and rest parameters (...args) in ES6.
+
+Q9. Explain how rest parameters allow functions to accept a variable number of arguments.
+
+Q10. What are the differences between spread and rest parameters in terms of usage?
+
+Q11. What is array destructuring, and how is it used in ES6 to extract values from arrays?
+
+Q12. How can you use array destructuring to swap variables or extract specific elements?

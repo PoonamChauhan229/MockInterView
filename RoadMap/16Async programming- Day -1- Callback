@@ -1,0 +1,29 @@
+Async programming- Day -1: Callback
+Contents:
+Callback
+What's the callback? - call stack, web API, event loop, queue
+Use & its purpose of the callback
+Pain of callback
+Session reference  - http://latentflip.com/loupe/
+
+Mock Interview:
+
+Q1. What is a callback function, and why is it important in JavaScript?
+
+Q2. Explain the difference between synchronous and asynchronous programming. How do callbacks facilitate asynchronous behavior?
+
+Q3. Give an example of a built-in JavaScript function that accepts a callback as an argument.
+
+Q4. Discuss the concept of "callback hell" and how it can be avoided.
+
+Q5. What are the limitations of using callbacks for managing complex asynchronous tasks?
+
+Q6.Explain the difference between named functions and anonymous functions used as callbacks.
+
+Q7. How can you pass arguments to a callback function when invoking it?
+
+Q8. Discuss the difference between callback functions and event listeners. When would you use each approach?
+
+Q9.How would you explain the concept of callbacks to someone new to programming?
+
+Q10.What is the purpose of the callback queue in the event loop?

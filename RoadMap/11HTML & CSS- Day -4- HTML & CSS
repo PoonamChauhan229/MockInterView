@@ -1,0 +1,30 @@
+HTML & CSS- Day -4: HTML & CSS
+Contents:
+overflow - hidden, scroll, auto, visible
+dropbox
+measurements 
+fonts 
+icons 
+media query
+
+Mock Interview:
+
+Q1. Explain the overflow property in CSS and its values (hidden, scroll, auto, visible). How does each value affect the behavior of content overflow within an element?
+
+Q2. Describe the concept of dropdown menus in web development. How can you create dropdowns using HTML and CSS?
+
+Q3. Discuss different units of measurements in CSS (px, em, rem, %, vw, vh). When and how would you use each unit for styling elements?
+
+Q4. What are icon fonts and how can you use them in HTML and CSS? Describe the benefits of using icon fonts compared to image-based icons.
+
+Q6. Explain the concept of media queries in CSS for responsive web design?
+
+Q7. Discuss the differences between inline-block and block display properties in CSS. How do these properties affect the layout of elements?
+
+Q8. Describe the box-sizing property in CSS?
+
+Q9.  Explain the purpose of the overflow property in CSS. What are its different values (hidden, scroll, auto, visible)
+
+Q10. Explain the difference between overflow-x and overflow-y in CSS?
+
+

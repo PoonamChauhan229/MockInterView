@@ -1,0 +1,31 @@
+React- Day -8: Context API
+Contents:
+Context-API
+What is context, provide, createContext
+Avoid props drilling
+Session task – profile name changes
+Pre-read:
+https://reactjs.org/docs/context.html
+https://reactjs.org/docs/hooks-reference.html#usestate
+
+Mock Interview:
+
+Q1. What is the React Context API, and why is it used in React applications?
+
+Q2. Explain the purpose of createContext in React Context API.
+
+Q3. How do you create a new context using createContext in React?
+
+Q4. Describe the role of Provider and Consumer in React Context API.
+
+Q5. Explain how components consume context using Consumer in React Context API.
+
+Q6. What is prop drilling, and how does the React Context API help avoid it?
+
+Q7. Discuss the use of useContext hook for consuming context in functional components.
+
+Q8. How can you optimize performance when using context to prevent unnecessary re-renders?
+
+Q9. What are the performance considerations when using React Context API for global state management?
+
+Q10.How does React Context API help in avoiding prop drilling?

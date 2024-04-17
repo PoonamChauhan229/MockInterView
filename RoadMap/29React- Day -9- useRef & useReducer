@@ -1,0 +1,22 @@
+React- Day -9: useRef & useReducer
+Contents:
+useRef, useReducer
+Front end game demonstration - hangman / tictactoe / tile match
+
+Mock Interview:
+
+Q1. What is the purpose of the useRef hook in React?
+
+Q2. How do you create a ref using useRef in functional components?
+
+Q3. Explain the difference between useRef and useState in React.
+
+Q4. Describe a scenario where you would use useRef to interact with a DOM element.
+
+Q5. What is the useReducer hook used for in React?
+
+Q6. Explain how useRef can be used for implementing focus management or text selection in input fields.
+
+Q7. How does the current property of a ref returned by useRef differ from directly accessing DOM elements using traditional JavaScript methods?
+
+Q8. Discuss the benefits of using useReducer for managing complex state transitions compared to using multiple useState hooks.

@@ -1,0 +1,29 @@
+Async programming- Day -4: Promise fetch - request info & request init
+Contents:
+Implementing CRUD with HTML, CSS JavaScript
+Pre-read:
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+Mock Interview:
+
+Q1. What is the Fetch API, and how does it enable making HTTP requests in JavaScript?
+
+Q2. How do you initiate a basic Fetch request to retrieve data from a server?
+
+Q3. What are the common HTTP methods used in Fetch requests for CRUD operations?
+
+Q4. How do you handle Fetch responses using promises?
+
+Q5. Describe the difference between fetch() and XMLHttpRequest (XHR).
+
+Q6. Provide an example of sending data to a server using Fetch for creating a new resource (POST request).
+
+Q7. How do you extract and parse JSON data from a Fetch response?
+
+Q8. Describe how to retrieve data from a server using Fetch for reading existing resources (GET request).
+
+Q9. What headers are commonly used in Fetch requests, and why are they important?
+
+Q10. Explain the process of updating an existing resource on the server using Fetch (PUT or PATCH request).
+
+Q11. How do you delete a resource from the server using Fetch (DELETE request)?

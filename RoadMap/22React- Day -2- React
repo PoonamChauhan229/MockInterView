@@ -1,0 +1,33 @@
+React- Day -2: React
+Contents:
+Why react
+Setup react project
+Understanding JSX
+Components (simple HTML layout to reusable react components)
+Undetstanding the components
+Passing data through props
+Deploying react to netlify
+Pre-read:
+https://react.dev/
+
+Mock Interview:
+
+Q1. What are the key reasons to use React for building user interfaces?
+
+Q2. Explain the benefits of using a component-based architecture in React.
+
+Q3. Discuss the virtual DOM and its role in optimizing React application performance.
+
+Q4. What are the advantages of using JSX in React for writing component templates?
+
+Q5. Explain how to start the development server and run a React application locally.
+
+Q6. What is JSX in React, and how does it combine JavaScript and HTML-like syntax?
+
+Q7. How do you embed JavaScript expressions and logic inside JSX?
+
+Q8. Differentiate between functional components and class components in React.
+
+Q9. Discuss the concept of reusable components and their advantages in React development.
+
+Q10. What are props in React, and how are they used to pass data between components.

@@ -1,0 +1,28 @@
+React- Day -10: Axios
+Contents:
+Playing around with API
+fetch() or Axios
+Implementing simple CRUD
+Pre-read:
+No preread available
+
+
+Mock Interview:
+
+Q1. What is Axios and how is it used in React applications?
+
+Q2. How do you install and import Axios in a React project?
+
+Q3. Explain the advantages of using Axios over the built-in fetch() API for making HTTP requests.
+
+Q4. Discuss the features of Axios that make it suitable for handling asynchronous data fetching in React components.
+
+Q5. Describe the process of making GET requests using Axios in a React component.
+
+Q6. How can you configure Axios to send POST requests with JSON data to an API endpoint?
+
+Q7. What are Axios interceptors and how can they be used to modify requests or responses globally in a React application?
+
+Q8. Describe the syntax for making a POST request with Axios to submit form data to a server.
+
+Q9. What is the difference between axios.get() and axios.post() methods in Axios?

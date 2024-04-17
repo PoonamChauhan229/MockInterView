@@ -1,0 +1,26 @@
+React- Day -4: React components
+Contents:
+Components - In-depth
+Component life cycle
+Stateful and stateless components
+Reusable components 
+Passing dynamic data to component
+Introduction to Hook
+
+Mock Interview:
+
+Q1. Discuss the lifecycle phases of a class component in React.
+
+Q2. Explain the purpose of lifecycle methods like componentDidMount and componentWillUnmount.
+
+Q3. How do you manage component updates and re-renders using lifecycle methods in React?
+
+Q4. Explain the concept of props drilling and how to avoid it when designing reusable components.
+
+Q5. Define stateful and stateless components in React. When would you use each type?
+
+Q6. Explain the process of destructuring props inside functional components for easier data access.
+
+Q7. How do you handle component styling in React applications? Discuss different approaches like inline styles, CSS modules, and styled-components.
+
+Q8. Discuss the role of React Fragments (<>...</>) and when you would use them in component rendering.

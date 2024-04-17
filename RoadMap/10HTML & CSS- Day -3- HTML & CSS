@@ -7,3 +7,25 @@ Flex - display, direction, wrap, flex-flow, justify-content, align-content
 position property: fixed, static, relative, absolute, sticky
 parent inherit 
 gradient
+
+Mock Interview:
+
+Q1. Explain the purpose of pseudo-classes (:link, :visited, :hover, :active) in CSS.
+
+Q2. Describe the CSS box model and its components. How does each component affect the layout of an element?
+
+Q3. Explain the CSS Grid Layout system. How can you create a grid-based layout using grid-template-columns and grid-template-rows? Provide an example.
+
+Q4.Discuss the display: flex; property in CSS. What is the purpose of Flexbox, and how does it simplify layout design?
+
+Q5. Explain the flex-direction, flex-wrap, flex-flow, justify-content, and align-content properties in Flexbox. How do these properties control the layout and alignment of flex items?
+
+Q6. Describe the different values of the CSS position property (fixed, static, relative, absolute, sticky). When would you use each position value, and how do they affect element positioning?
+
+Q7. What is the difference between position: relative; and position: absolute; in CSS? How do these values change the positioning context of an element?
+
+Q8. Explain the position: sticky; property in CSS. How does it create sticky elements that remain fixed based on scroll position?
+
+Q9. What are CSS gradients, and how can you create linear and radial gradients using CSS? Provide examples of gradient syntax and usage
+
+Q10. Describe the CSS box-shadow property. How can you use it to add shadows to elements, and what are the parameters you can adjust?

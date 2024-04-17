@@ -1,0 +1,30 @@
+DOM- Day -2: Document vs Window
+Contents:
+Window - Common Util functions
+setTimeout vs setInterval
+prompt, Alert, Confirm
+working with events
+
+Mock Interview Questions:
+
+Q1. Explain the difference between the Document object and the Window object in the DOM. How do they relate to each other within the browser environment?
+
+Q2. What are some key properties and methods available on the Window object? Provide examples of common utility functions used in JavaScript for interacting with the browser window.
+
+Q3. What is the difference between setTimeout() and setInterval() in JavaScript? How do these functions enable asynchronous behavior in web applications?
+
+Q4. Explain how you can use setTimeout() to delay the execution of a function by a specified time interval. Provide an example of setting a timeout for a function call.
+
+Q5. Describe the purpose of alert(), prompt(), and confirm() functions in JavaScript. How are these methods used to interact with users in web applications?
+
+Q6. What is the difference between alert(), prompt(), and confirm() in terms of their behavior and how they handle user input?
+
+Q7. How do you attach event listeners to DOM elements using JavaScript? Explain the concept of event handling in web development.
+
+Q8. Provide examples of common DOM events (e.g., click, mouseover, submit). How do you capture and respond to these events using event listeners?
+
+Q9. Suppose you want to display a confirmation dialog when a user clicks a button. How would you use confirm() in conjunction with an event listener to achieve this functionality?
+
+Q10. Can you demonstrate how to implement a countdown timer using setTimeout() to update the DOM with the remaining time?
+
+Q11. Explain the process of handling a click event on a <button> element and dynamically changing the text content of another <div> element on the page.

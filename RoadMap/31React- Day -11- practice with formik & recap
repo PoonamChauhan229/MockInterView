@@ -1,0 +1,26 @@
+React- Day -11: practice with formik & recap
+Contents:
+"Completed recap by implementing any Front end game/CRUD to understand the importance of hooks 
+ex:- hangman / tictactoe / tile match"
+Pre-read:
+https://www.npmjs.com/package/formik
+
+Mock Interview:
+
+Q1. What is Formik and how does it simplify form management in React applications?
+
+Q2. How do you install and import Formik in a React project?
+
+Q3. Explain the main features of Formik that make it useful for building forms.
+
+Q4. Describe the purpose of Formik's formik object and its role in form state management.
+
+Q5. What are the key benefits of using Formik over traditional form handling approaches in React?
+
+Q6. How does Formik handle form validation and error handling?
+
+Q7. Describe the methods available in Formik for form validation.
+
+Q8. How do you define validation schemas using Yup with Formik for validating form inputs?
+
+Q9. What are the benefits of using Formik's built-in validation compared to custom validation approaches?

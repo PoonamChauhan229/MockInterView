@@ -1,0 +1,33 @@
+HTML & CSS- Day -5: HTML & CSS
+Contents:
+What is RWD?
+What is the mobile-first approach?
+Bootstrap
+ - How to set up bootstrap?
+ - What is the layout?
+ - what is container, container-fluid & container with breakpoints?
+ - What is a grid in Bootstrap?
+ - what is a column prefix & its use and maximum columns for a row?
+ - how to do nested columns and column ordering?
+
+ Mock Interview:
+
+Q1. What is Responsive Web Design (RWD), and why is it important in modern web development?
+
+Q2. How do you set up Bootstrap in a web project? Describe the different ways to include Bootstrap CSS and JavaScript files.
+
+Q3. What is the purpose of a Bootstrap layout? How does Bootstrap's grid system help in creating responsive designs?
+
+Q4. Explain the differences between container, container-fluid, and using containers with breakpoints (container-sm, container-md, container-lg, container-xl) in Bootstrap.
+
+Q5. What is a grid in Bootstrap? How is the grid system structured using rows and columns?
+
+Q6. What is a column prefix (col-) in Bootstrap, and what is its significance? How do you specify column widths using Bootstrap's grid system?
+
+Q7. What are Bootstrap utilities (text-center, float-left, clearfix, etc.)? How can you apply these utilities to style elements in a responsive layout?
+
+Q8. Explain the difference between container, container-fluid, and using containers with breakpoints (container-sm, container-md, etc.) in Bootstrap.
+
+Q9. Describe the purpose of Bootstrap's responsive breakpoints (sm, md, lg, xl). How do these breakpoints help in designing layouts for different screen sizes?
+
+Q10. What are the benefits of using Bootstrap's utility classes (d-*, m-*, p-*) for responsive layouts? 

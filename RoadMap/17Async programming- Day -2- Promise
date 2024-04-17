@@ -1,0 +1,33 @@
+Async programming- Day -2: Promise
+Contents:
+Promise
+ - What is a promise?
+ - Promise States
+ - Promise chain
+ - promise.all()
+ - Use of fetch() & then()
+
+ Mock Interview:
+Q1. What is a Promise in JavaScript?
+
+Q2. How do Promises help in handling asynchronous operations?
+
+Q3. Explain the concept of Promise chaining.
+
+Q4. What are the states of a Promise?
+
+Q5. What is the difference between resolve and reject in a Promise?
+
+Q6. What is the purpose of the then() method in a Promise?
+
+Q7. How can you handle multiple asynchronous operations simultaneously using Promise.all()?
+
+Q8. Provide an example of using Promises with fetch() to make an API request.
+
+Q9. What are some common pitfalls or challenges when working with Promises?
+
+Q10. How can you chain multiple asynchronous operations using Promises?
+
+Q11. Describe the purpose of the catch() method in Promise handling.
+
+Q12. What are the limitations of Promises in JavaScript?

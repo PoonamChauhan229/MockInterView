@@ -1,0 +1,27 @@
+React- Day -5: React Hooks
+Contents:
+What is the hook?
+Lifecycle of Hook
+useState, useEffect
+Props drilling
+Passing data from child to parent component
+Pre-read:
+https://www.npmjs.com/package/react-router-dom
+
+Mock InterView:
+
+Q1. What is a React hook, and how does it differ from traditional class-based component methods?
+
+Q2. How do hooks enable better code reuse and composition in React applications?
+
+Q3. Explain the sequence of execution for hooks like useState and useEffect during component rendering and re-rendering.
+
+Q4. What are the dependencies of the useEffect hook, and how do they affect its behavior?
+
+Q5. How do you declare and use state variables in functional components using the useState hook?
+
+Q6. What is the purpose of the useEffect hook in React, and when would you use it?
+
+Q7. Describe the difference between using useEffect with dependencies and without dependencies.
+
+Q8. Define props drilling in React and describe its implications for component design.

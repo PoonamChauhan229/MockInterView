@@ -1,0 +1,31 @@
+React- Day -6: Router
+Contents:
+react-router-dom
+BrouserRouter, Switch, Link, Route, URL params
+
+session task on the admin dashboard
+https://startbootstrap.com/previews/sb-admin-2
+
+Mock Interview:
+
+Q1. What is React Router, and why is it used in React applications?
+
+Q2. Explain the purpose of react-router-dom and its key components.
+
+Q3. How do you install and set up React Router in a React application?
+
+Q4. What is the difference between BrowserRouter and HashRouter in React Router?
+
+Q5. How do you use Route to define routing paths and corresponding components in React Router?
+
+Q6. What is the significance of the exact prop in Route components, and when should you use it?
+
+Q7. How can you handle 404 page not found scenarios in React Router?
+
+Q8. Describe the role of Link in React Router for declarative navigation.
+
+Q9. How do you use Link to create navigation links between different routes in a React application?
+
+Q10. Discuss the benefits of using Link over traditional anchor (<a>) tags for internal navigation in React.
+
+Q11. Explain how you can handle URL parameters and dynamic route segments in React Router.
