@@ -1,0 +1,31 @@
+Database- Day -3: MongoDB
+Contents:
+"Why mongodb?
+What is document?
+What is collection?
+Mongodb vs MySQL
+creation of database, collections, documents
+find - query & projection
+use of operators in find() query"
+
+Mock Interview:
+
+Q1. Why would you choose MongoDB over traditional SQL databases like MySQL?
+
+Q2. What are the benefits of using a document-oriented database like MongoDB?
+
+Q3. Define a document in MongoDB. How is it structured?
+
+Q4. What is a collection in MongoDB? How does it differ from a table in MySQL?
+
+Q5. Describe the steps involved in creating a new database in MongoDB.
+
+Q6. How do you create a collection within a MongoDB database?
+
+Q7. Explain how you can insert documents into a MongoDB collection using the shell.
+
+Q8. What is the purpose of the find() method in MongoDB?
+
+Q9. How would you use the $gt (greater than) operator in a find() query?
+
+Q10. Explain the difference between the $in and $nin operators in MongoDB.

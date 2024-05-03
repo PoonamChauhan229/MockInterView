@@ -1,0 +1,30 @@
+Database- Day -1: MySQL
+Contents:
+"Introduction to database
+what is mysql?
+intro to mysql engines
+basic queries - create db, table
+insert, update, alter
+select - where clause, distinct, group by, order by, offset, limit"
+
+ock Interview:
+
+Q1. What is a database? Why are databases important in web development?
+
+Q2. Explain the role of MySQL in the context of relational databases.
+
+Q3. Differentiate between SQL and MySQL.
+
+Q4. Describe the main features of MySQL.
+
+Q5. What is the purpose of the SELECT statement in MySQL?
+
+Q6. How would you use the WHERE clause in a SELECT statement?
+
+Q7. What does the DISTINCT keyword do in a SELECT statement?
+
+Q8. Explain the usage of GROUP BY in MySQL.
+
+Q9.How do you use ORDER BY to sort query results?
+
+Q10. What is the purpose of LIMIT and OFFSET in MySQL queries?

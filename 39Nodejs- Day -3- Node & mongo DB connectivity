@@ -1,0 +1,28 @@
+Nodejs- Day -3: Node & mongo DB connectivity
+Contents:
+"Connection to MongoDB(local & atlas)
+simultaneously frontend + backend connectivity"
+
+Mock Interview:
+
+Q1. What is the role of environment variables (process.env) in configuring Express.js applications?
+
+Q2. Explain how you can connect a Node.js application to a local MongoDB database.
+
+Q3. What npm package(s) can you use to facilitate the MongoDB connection in a Node.js application?
+
+Q4. Describe the process of setting up a connection string to connect to a MongoDB Atlas cluster.
+
+Q5. How do you handle authentication and authorization when connecting to a MongoDB Atlas database from a Node.js application?
+
+Q6. What are the advantages of using MongoDB Atlas over a locally hosted MongoDB database for production applications?
+
+Q7. What are the CORS (Cross-Origin Resource Sharing) considerations when connecting a frontend application to a Node.js backend?
+
+Q8. How would you install and use the mongoose npm package to connect to a MongoDB database in a Node.js application?
+
+Q9. What are the differences between using mongodb and mongoose npm packages for MongoDB connectivity in Node.js?
+
+Q10. How do you handle database connection errors and retries in a Node.js application connected to MongoDB?
+
+Q11. Explain the importance of using environment variables (process.env) to store sensitive information like database credentials.

@@ -1,0 +1,27 @@
+Nodejs- Day -5: Authentication
+Contents:
+"Authentication 
+bcrypt
+simultenously frontend + backend connectivity"
+
+Mock Interview:
+
+Q1. What is authentication, and why is it important in web applications?
+
+Q2. Explain the difference between authentication and authorization.
+
+Q3. What is bcrypt, and why is it used for password hashing in Node.js?
+
+Q4. How do you integrate bcrypt into a Node.js application for securely storing user passwords?
+
+Q5. Discuss the benefits of using salt when hashing passwords with bcrypt
+
+Q6. Describe the process of implementing user authentication using JSON Web Tokens (JWT) in a Node.js application.
+
+Q7. Explain why salting is important when hashing passwords with bcrypt.
+
+Q8. Discuss the benefits of using JSON Web Tokens (JWT) for managing authenticated sessions in a stateless architecture.
+
+Q9. Why is it essential to hash passwords using algorithms like bcrypt instead of storing them as plain text?
+
+Q10. Explain how bcrypt manages the cost factor to adjust the computational intensity of password hashing.

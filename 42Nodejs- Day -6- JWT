@@ -1,0 +1,28 @@
+Nodejs- Day -6: JWT
+Contents:
+"JWT 
+custom middleware
+authorization
+simultaneously frontend + backend connectivity"
+
+Mock Interview:
+
+Q1. What is JWT (JSON Web Token), and how does it facilitate stateless authentication in web applications?
+
+Q2. Explain the structure of a JWT and its components (header, payload, signature).
+
+Q3. How do you generate and verify JWTs in a Node.js application using libraries like jsonwebtoken?
+
+Q4. What are the advantages of using JWT over traditional session-based authentication mechanisms?
+
+Q5. What is middleware in the context of Node.js applications, and how is it used for request processing?
+
+Q6. How would you implement a custom middleware function to authenticate incoming requests using JWT?
+
+Q7. Describe the difference between authentication and authorization in the context of web security.
+
+Q8. Explain how a frontend application communicates with a Node.js backend using JWT for authentication.
+
+Q9. How do you create a JWT in a Node.js application?
+
+Q10. How is a JWT validated and decoded in Node.js?

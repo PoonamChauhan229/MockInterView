@@ -1,0 +1,31 @@
+Nodejs- Day -1: Nodejs
+Contents:
+"What is nodejs?
+Npm packages
+ - In build
+ - Third party
+ - Custom"
+
+ Mock Interview :
+
+Q1. What is Node.js, and how does it differ from traditional server-side environments like Apache?
+
+Q2. What are the main advantages of using Node.js for backend development?
+
+Q3. Explain the concept of callback functions in Node.js and why they are important in asynchronous programming.
+
+Q4. Name some of the core modules available in Node.js without requiring external installation.
+
+Q5. How would you use the fs module to read a file asynchronously in Node.js?
+
+Q6. Describe the purpose of the http module in Node.js. Provide an example of creating an HTTP server.
+
+Q7. What is npm (Node Package Manager), and why is it important for Node.js development?
+
+Q8. Name a few popular third-party npm packages used for web development.
+
+Q9. How do you install and manage third-party packages using npm in a Node.js project?
+
+Q10. Discuss the advantages and potential risks of using third-party npm packages in a production environment.
+
+Q11. Describe the role of the package.json file in a Node.js project.

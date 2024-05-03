@@ -1,0 +1,27 @@
+Database- Day -2: MySQL
+Contents:
+Normalization, select queries, joins
+DB model design
+Intro to MongoDB & installation of Mongodb
+
+Mock Interview:
+
+Q1. What is database normalization? Why is it important?
+
+Q2. Discuss the benefits and drawbacks of normalization.
+
+Q3. What is the difference between INNER JOIN, LEFT JOIN, and RIGHT JOIN?
+
+Q4. How can you use aggregate functions like COUNT, SUM, AVG, MIN, and MAX in SQL queries?
+
+Q5. What is MongoDB? How does it differ from traditional relational databases like MySQL?
+
+Q6. Discuss the concept of NoSQL databases and the advantages of using MongoDB.
+
+Q7. Explain the document-oriented model used in MongoDB.
+
+Q8. How do you install and set up MongoDB on a local machine (Windows/Linux)?
+
+Q9. Describe the structure of a BSON document in MongoDB.
+
+Q10. What is the purpose of the _id field in MongoDB documents?

@@ -1,0 +1,27 @@
+Nodejs- Day -4: Nodejs deployment
+Contents:
+"dotenv
+Deployment
+simultaneously frontend + backend connectivity"
+
+Mock Interview:
+
+Q1. What is dotenv used for in Node.js applications?
+
+Q2. How do you use dotenv to manage environment variables in a Node.js project?
+
+Q3. Explain the process of loading environment variables from a .env file using dotenv.
+
+Q4. Why is it important to use dotenv for managing sensitive information like API keys in production deployments?
+
+Q5. Describe the steps involved in deploying a Node.js application to a production server.
+
+Q6. What are some popular platforms for deploying Node.js applications?
+
+Q7. How does dotenv help in managing environment-specific configurations in Node.js applications?
+
+Q8. What security measures should be taken when deploying a Node.js application that uses dotenv for managing secrets?
+
+Q9. What are the considerations for enabling CORS (Cross-Origin Resource Sharing) between a frontend and a Node.js backend?
+
+Q10. Why is it important to use environment variables instead of hardcoding values in a Node.js deployment?

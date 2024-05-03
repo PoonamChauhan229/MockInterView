@@ -1,0 +1,31 @@
+Nodejs- Day -2: Nodejs & Express.js
+Contents:
+What is express 
+API methods - GET, POST, PUT, DELETE
+Request & response objects 
+Url  &  Query parameters
+
+Q1. What is Express.js, and how does it facilitate building web applications in Node.js?
+
+Q2.How does routing work in Express.js, and why is it important for building RESTful APIs?
+
+Q3. Describe the purpose of each HTTP method (GET, POST, PUT, DELETE) in the context of building APIs.
+
+Q4. Provide examples of scenarios where you would use GET versus POST in an Express.js application.
+
+Q5. Explain the req (request) and res (response) objects in Express.js.
+
+Q6. Differentiate between URL parameters and query parameters in an Express.js route.
+
+Q7. Explain the use of query parameters and demonstrate how to extract them from a request URL.
+Mock Interview Questions
+
+Q8. Explain the purpose of the GET method in an Express.js application.
+
+Q9. How would you implement a POST request handler in an Express.js application?
+
+Q10. Discuss the role of the DELETE method in RESTful API development using Express.js.
+
+Q11. Differentiate between URL parameters and query parameters in Express.js.
+
+Q12. How do you define dynamic routes with URL parameters in Express.js?

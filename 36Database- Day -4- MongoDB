@@ -1,0 +1,33 @@
+Database- Day -4: MongoDB
+Contents:
+"basic cursor methods - map, toArray, pretty, forEach, limit, count, sort
+Aggregation
+Server-side vs Client-side rendering"
+
+Mock Interview:
+
+Q1. Explain the purpose of map() in MongoDB cursor operations.
+
+Q2. How would you use toArray() to convert cursor results into an array in MongoDB?
+
+Q3. What does the pretty() method do in the MongoDB shell?
+
+Q4. Describe the usage of forEach() with MongoDB cursors.
+
+Q5. How does the limit() method impact MongoDB query results?
+
+Q6. Explain how you can count the number of documents returned by a MongoDB query using count().
+
+Q7. Discuss the significance of sort() in MongoDB queries. Provide an example
+
+Q8. Provide examples of common aggregation operators used in MongoDB (e.g., $match, $group, $project).
+
+Q9. Explain the concept of server-side rendering (SSR) in web applications.
+
+Q10.What are the advantages of using server-side rendering over client-side rendering (CSR)?
+
+Q11. Compare and contrast the toArray() and forEach() methods in MongoDB. When would you use each?
+
+Q12. How would you optimize a MongoDB query using limit() and sort() together?
+
+Q13. Explain the difference between the $match and $filter stages in MongoDB aggregation.
